@@ -6,7 +6,6 @@ Java Full Stack Developer
 
 Hey there! I'm an enthusiastic tech geek and a fast learner, specializing in Java Full Stack Development. I absolutely love diving into the latest technologies and keeping up with all the cool trends in the industry. With my skills in Java, JavaScript, HTML, CSS, and frameworks like Spring and Angular, I can whip up some seriously impressive and user-friendly applications.
 
-* 🌍  I'm based in Somewhere
 * ✉️  You can contact me at [forcoding35@gmail.com](mailto:forcoding35@gmail.com)
 * 🧠  I'm learning Spring Cloud
 
